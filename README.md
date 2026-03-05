@@ -1,20 +1,20 @@
-Air Quality Monitoring Agent:
+### Air Quality Monitoring Agent:
 
 Group Members -  
 Unnati Sai Kandimalla SE24UCSE071  
 Yasaswi Inampudi SE24UCSE127  
 Satya Rohit Grandhe SE24UCSE150  
 Sai Mahidhar Sadu SE24UCSE156
-__________________________________________________________________________________________________________________________________________________________________
-Project Overview:
+___
+### Project Overview:
 
 This project demonstrates a Rule-Based Simple Reflex Agent that evaluates the Air Quality Index (AQI) using environmental pollutant readings. The program reads pollutant concentrations from the user and determines the corresponding air quality condition.
 
 In Artificial Intelligence, a Simple Reflex Agent makes decisions only based on the current percept (input) and applies predefined condition–action rules. It does not store previous states or perform learning.
 
 In this project, pollutant values act as sensor inputs, and the agent immediately maps these inputs to an AQI classification using rule conditions.
-__________________________________________________________________________________________________________________________________________________________________
-Pollutants Considered:
+___
+### Pollutants Considered:
 
 The system analyzes four major pollutants that influence air quality:
 PM2.5 – Fine particulate matter smaller than 2.5 micrometers
@@ -23,16 +23,16 @@ NO₂ – Nitrogen dioxide gas from combustion sources
 CO – Carbon monoxide released from vehicles and burning fuels
 
 These pollutants are combined to estimate the overall AQI value.
-__________________________________________________________________________________________________________________________________________________________________
-Air Quality Classification:
+___
+### Air Quality Classification:
 
 0 – 50	Clean Air  
 51 – 100	Acceptable  
 101 – 150	Sensitive Groups Risk  
 151 – 200	Poor  
 Above 200	Very Dangerous  
-__________________________________________________________________________________________________________________________________________________________________
-Sample Execution:
+___
+### Sample Execution:
 
 ---- Air Quality Monitoring System ----
 
@@ -43,8 +43,8 @@ Enter CO concentration: 1.2
 
 Calculated AQI: 77.4
 Air Condition: Acceptable
-__________________________________________________________________________________________________________________________________________________________________
-Artificial Intelligence Concept Demonstrated:
+___
+### Artificial Intelligence Concept Demonstrated:
 
 This project illustrates the Simple Reflex Agent model.
 
