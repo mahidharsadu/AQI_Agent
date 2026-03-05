@@ -1,10 +1,10 @@
 Air Quality Monitoring Agent:
 
 Group Members -  
-Unnati Sai Kadimalla SE24UCSE071  
+Unnati Sai Kandimalla SE24UCSE071  
 Yasaswi Inampudi SE24UCSE127  
 Satya Rohit Grandhe SE24UCSE150  
-Sai MahidharSadu SE24UCSE156
+Sai Mahidhar Sadu SE24UCSE156
 __________________________________________________________________________________________________________________________________________________________________
 Project Overview:
 
